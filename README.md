@@ -71,28 +71,28 @@
 <div align=center>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=akashhdeep&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="akashhdeep" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=akashhxthakur&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="akashhxthakur" 
     bg_color=#808080/></p>
 
 <br>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashhdeep&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashhxthakur&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashhdeep&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashhxthakur&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="adam-pw" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
-  ![Akash Deep's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=akashhdeep&theme=react-dark&hide_border=true&area=true)
+  ![Akash Deep's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=akashhxthakur&theme=react-dark&hide_border=true&area=true)
   
-<!--   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashhdeep&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+<!--   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashhxthakur&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
    -->
 <!-- ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akashhdeep&theme=discord&no-frame=false&no-bg=false&margin-w=4)   -->
+![](https://github-profile-trophy.vercel.app/?username=akashhxthakur&theme=discord&no-frame=false&no-bg=false&margin-w=4)   -->
   <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -122,4 +122,4 @@ You can hire me as a freelancer on <a href="https://www.linkedin.com/in/akash-de
     </div>
   </div>
 
-Credit: [Akash Deep](https://github.com/akashhdeep)
+Credit: [Akash Deep](https://github.com/akashhxthakur)
