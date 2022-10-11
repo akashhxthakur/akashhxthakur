@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Deep</h1>
-<h3 align="center">Frontend Developer @ <a title="grok-digital" href="https://grok-digital.com/">GROK DIGITAL</a></h3>
+<h3 align="center">Software Engineer (Web Developer) @ <a title="grok-digital" href="https://grok-digital.com/">GROK DIGITAL</a></h3>
 
 <br>
 
