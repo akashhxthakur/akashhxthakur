@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Deep</h1>
-<h3 align="center">Frontend Developer @ <a title="Ladybird Web Solutions" href="http://www.ladybirdweb.com">Ladybird Web Solutions🐞</a></h3>
+<h3 align="center">Frontend Developer @ <a title="GROK DIGITAL" href="https://grok-digital.com/">Ladybird Web Solutions</a></h3>
 
 <br>
 
