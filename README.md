@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Deep</h1>
-<h3 align="center">Software Engineer (React Native Developer)</h3>
+<h3 align="center">Software Engineer (Mobile App Developer)</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently working as a VueJs Developer and learning other programming languages.
+- 🌱 I’m currently working as a React Native Developer and learning other programming languages.
 
 - 📫 How to reach me **athakur2804@gmail.com**
 
