@@ -82,12 +82,12 @@
 
 <br> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashhxthakur&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="adam-pw" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashhxthakur&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="adam-pw" /></p> -->
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
-  ![Akash Deep's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=akashhxthakur&theme=react-dark&hide_border=true&area=true)
+<!--   ![Akash Deep's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=akashhxthakur&theme=react-dark&hide_border=true&area=true) -->
   
 <!--   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashhxthakur&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
    -->
